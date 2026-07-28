@@ -1,0 +1,2 @@
+bundle_identifier,component_identifier,description,quantity,unit_cost_override,unit_weight_override_kg,is_required
+BUNDLE-001,8000000000001,Componente demo,2,,,true
