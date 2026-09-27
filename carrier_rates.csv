@@ -1,2 +1,0 @@
-carrier,service,country_code,zone,postal_patterns,min_weight_kg,max_weight_kg,min_volumetric_weight_kg,max_volumetric_weight_kg,min_packages,max_packages,fee_kind,fixed_amount,percentage_value,currency,valid_from,valid_to,source,status
-BRT,Standard,IT,Italia continentale,"",0,3,,,1,1,fixed,6.50,,EUR,2026-01-01,,contract,active

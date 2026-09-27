@@ -1,0 +1,43 @@
+{
+  "schema": "wfl-p43-public-compute-provenance-1",
+  "source_private_repo": "riccidiego92/winforlife-classico-lab",
+  "source_branch": "ops/github-only-p40-p48-control-plane",
+  "exported_scope": "P42/P43 TRAIN-only compute",
+  "train_dataset": {
+    "start": "2013-01-21",
+    "end": "2018-12-31",
+    "rows": 36902,
+    "columns": [
+      "date",
+      "time",
+      "n1",
+      "n2",
+      "n3",
+      "n4",
+      "n5",
+      "n6",
+      "n7",
+      "n8",
+      "n9",
+      "n10",
+      "numerone"
+    ]
+  },
+  "excluded": [
+    "validation and holdout rows",
+    "source_url",
+    "source_sha256",
+    "prospective freezes",
+    "survivor sets",
+    "private control-plane artifacts",
+    "credentials and secrets"
+  ],
+  "frozen_parameters": {
+    "candidate_count": 384,
+    "confirmation_reps": 2000,
+    "confirmation_alpha": 0.01,
+    "final_train_reps": 100000,
+    "final_alpha": 0.05
+  },
+  "free_only": true
+}

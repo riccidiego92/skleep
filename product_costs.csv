@@ -1,2 +1,0 @@
-product_identifier,cost_type,amount,currency,country_code,channel_name,valid_from,valid_to,source,is_verified,source_reference
-8000000000001,product_cost,45.00,EUR,IT,,2026-01-01,,manual_verified,true,Fattura fornitore

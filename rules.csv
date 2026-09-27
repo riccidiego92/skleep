@@ -1,3 +1,0 @@
-name,rule_type,scope_json,conditions_json,effect_json,priority,specificity,safety_level,valid_from,valid_to,source,status,approval_required
-Blocco brand demo,hard_lock,"{\"brand\":\"Brand Demo\",\"countryCode\":\"IT\"}","{}","{\"blocksProposal\":true}",1000,50,100,2026-01-01T00:00:00Z,,contract,active,true
-Margine minimo Italia,minimum_margin,"{\"countryCode\":\"IT\"}","{}","{\"minimumMarginPct\":25}",100,10,90,2026-01-01T00:00:00Z,,manual_verified,active,true

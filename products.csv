@@ -1,2 +1,0 @@
-external_variant_id,kind,ean,sku,title,brand,category,supplier_code,list_price,currency,weight_kg,length_cm,width_cm,height_cm
-VAR-001,single,8000000000001,SKU-001,Prodotto demo,Brand Demo,Categoria Demo,SUP-01,99.90,EUR,1.2,30,20,15

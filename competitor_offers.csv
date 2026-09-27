@@ -1,2 +1,0 @@
-product_identifier,competitor_name,country_code,seller_name,condition,price,shipping_price,currency,in_stock,source_url,observed_at,match_score,reliability_score,bundle_match
-8000000000001,Rivenditore Demo,IT,Rivenditore Demo,new,89.90,5.90,EUR,true,https://example.com,2026-07-28T10:00:00Z,100,90,

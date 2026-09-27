@@ -1,3 +1,0 @@
-name,fee_domain,provider_or_channel,country_code,category,fee_kind,percentage_base,percentage_value,fixed_amount,minimum_amount,maximum_amount,currency,valid_from,valid_to,source,status
-PayPal Italia,payment,PayPal,IT,,percentage_plus_fixed,gross_order,3.10,0.35,,,EUR,2026-01-01,,contract,active
-Amazon IT categoria demo,marketplace,Amazon IT,IT,Categoria Demo,percentage,gross_item,15.00,,,,EUR,2026-01-01,,manual_verified,active

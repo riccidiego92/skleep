@@ -1,0 +1,8 @@
+{
+  "schema": "wfl-p43-public-batch-1",
+  "stage": "member_confirmation",
+  "batch_index": 0,
+  "batch_count": 8,
+  "request_id": "bootstrap-no-run",
+  "candidate_ids": []
+}
