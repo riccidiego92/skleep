@@ -3,6 +3,6 @@
   "stage": "member_confirmation",
   "batch_index": 0,
   "batch_count": 8,
-  "request_id": "bootstrap-no-run",
+  "request_id": "confirmation-batch-0-v1",
   "candidate_ids": []
 }
